@@ -12,10 +12,10 @@ target
 dependency-reduced-pom.xml
 *.sublime-*
 /scratch
+/.idea/
 .gradle
 
 README.html
 /initial/.idea
 /complete/.idea
-/initial/*.iml
-/complete/*.iml
+*.iml
